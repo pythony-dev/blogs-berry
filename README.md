@@ -1,0 +1,11 @@
+# Blog's Berry
+
+![Blog's Berry](Blogs-Berry.jpeg)
+
+After launching my first website in 2018, I had to face the problem that every new blogger who wants to start a blog has to face : How to attract new readers every day ? Indeed, writing a quality article does not, by itself, attract enough visitors to a blog to make it thrive. The reason for this is simple : The people to whom our content is addressed simply don't know us.
+
+So how do you go about getting your blog talked about, and hope to make it a reference on its theme ? I've tried several methods to achieve this, including sharing on social networks. This allowed me to discover new enthusiasts, exchange with them, and then redirect them to my blog, my articles, and my newsletter. The results were encouraging, as these people were interested and appreciated the quality of my content, but disappeared as soon as I slowed down the rate of my publications. I needed to find another way to share my blog, which doesn't require me to spend hours posting the same introductory message on different computing groups.
+
+So I came up with the idea of creating a web platform, which would connect people looking for new content to read, with all these nascent blogs. The initial concept was to allow everyone to discover new blogs and articles, based on one or more keywords. By writing "apple pie" in the search bar, an algorithm would analyze a database full of blogs and various articles, and thus allow this avid baker to discover new bloggers who are experts in cooking.
+
+Of course, discovering new blogs and articles was the heart of my project. But to go further, I also wanted to give everyone the possibility to personalise their searches, by saving their favourite blogs, in order to be notified when a new article is published there, without having to subscribe to a multitude of newsletters. During a search, each user has the possibility to mark his or her favourite contents, in order to find them on his or her home page, containing the new articles published on each of them. Obviously, these are only the foundations of this new project, and I look forward to improving it as I get feedback from you, whether you are a blogger, a reader, or simply curious..

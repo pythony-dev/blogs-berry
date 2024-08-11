@@ -1,0 +1,7 @@
+
+body {
+    background : url("/BlogsBerry/Public/Images/Backgrounds/Background.jpeg") center fixed;
+    background-size : cover;
+} .blogsBookmark, .articlesBookmark, .icon {
+    width : 24px;
+}
